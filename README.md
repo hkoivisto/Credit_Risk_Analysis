@@ -17,7 +17,7 @@ In this analysis supervised machine learning is used to determine how loan and a
    - Cluster Centroid Undersampling Linear Regression
        - Balanced Accuracy: 0.50
        - Precision: 0.99
-       - recall: 0.0
+       - recall: 0.40
   - SMOTEEEN sampling Linear Regression
        - Balanced Accuracy: 0.62
        - Precision: 0.99
